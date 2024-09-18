@@ -1,0 +1,286 @@
+
+spine_monsterC.png
+size: 1683,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betOption/coin01
+  rotate: false
+  xy: 1454, 42
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+betOption/coin02
+  rotate: false
+  xy: 1346, 2
+  size: 41, 37
+  orig: 41, 39
+  offset: 0, 1
+  index: -1
+betOption/coin03
+  rotate: true
+  xy: 1427, 3
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb01
+  rotate: false
+  xy: 1546, 162
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb02
+  rotate: false
+  xy: 889, 139
+  size: 209, 223
+  orig: 209, 223
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb03
+  rotate: false
+  xy: 370, 63
+  size: 279, 299
+  orig: 279, 299
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb04
+  rotate: false
+  xy: 2, 8
+  size: 366, 354
+  orig: 366, 354
+  offset: 0, 0
+  index: -1
+monsterA/monsterLight01
+  rotate: false
+  xy: 651, 126
+  size: 236, 236
+  orig: 238, 238
+  offset: 1, 1
+  index: -1
+monsterA/monsterLight02
+  rotate: false
+  xy: 1526, 262
+  size: 100, 100
+  orig: 104, 103
+  offset: 2, 1
+  index: -1
+monsterC/bodyD
+  rotate: false
+  xy: 1100, 85
+  size: 200, 131
+  orig: 200, 131
+  offset: 0, 0
+  index: -1
+monsterC/bodyD_2
+  rotate: false
+  xy: 1302, 85
+  size: 200, 131
+  orig: 200, 131
+  offset: 0, 0
+  index: -1
+monsterC/bodyU
+  rotate: false
+  xy: 1100, 218
+  size: 211, 144
+  orig: 211, 144
+  offset: 0, 0
+  index: -1
+monsterC/bodyU_2
+  rotate: false
+  xy: 1313, 218
+  size: 211, 144
+  orig: 211, 144
+  offset: 0, 0
+  index: -1
+monsterC/coinM1
+  rotate: false
+  xy: 370, 13
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+monsterC/coinM2
+  rotate: true
+  xy: 1022, 63
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+monsterC/coinM3
+  rotate: false
+  xy: 1027, 28
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+monsterC/coinM4
+  rotate: false
+  xy: 853, 105
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+monsterC/coinM5
+  rotate: true
+  xy: 1504, 70
+  size: 146, 40
+  orig: 146, 40
+  offset: 0, 0
+  index: -1
+monsterC/coinM6
+  rotate: false
+  xy: 1346, 41
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+monsterC/d1
+  rotate: false
+  xy: 1389, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+monsterC/d2
+  rotate: false
+  xy: 1457, 4
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+monsterC/eyeB
+  rotate: true
+  xy: 1546, 62
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+monsterC/pupil
+  rotate: false
+  xy: 562, 2
+  size: 66, 59
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+monsterC/pupil_2
+  rotate: false
+  xy: 853, 2
+  size: 66, 59
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+monsterC/tentacle1
+  rotate: true
+  xy: 1489, 2
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+monsterC/tentacle1_2
+  rotate: true
+  xy: 1573, 2
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+monsterC/tentacle2
+  rotate: true
+  xy: 1625, 50
+  size: 28, 44
+  orig: 28, 46
+  offset: 0, 2
+  index: -1
+monsterC/tentacle2_2
+  rotate: false
+  xy: 798, 13
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+monsterC/tentacle3
+  rotate: false
+  xy: 1092, 21
+  size: 125, 62
+  orig: 125, 62
+  offset: 0, 0
+  index: -1
+monsterC/tentacle3_2
+  rotate: false
+  xy: 1219, 21
+  size: 125, 62
+  orig: 125, 62
+  offset: 0, 0
+  index: -1
+monsterC/tentacle4
+  rotate: true
+  xy: 1628, 222
+  size: 140, 53
+  orig: 140, 53
+  offset: 0, 0
+  index: -1
+monsterC/tentacle4_2
+  rotate: true
+  xy: 1628, 80
+  size: 140, 53
+  orig: 140, 53
+  offset: 0, 0
+  index: -1
+monsterC/tentacle5
+  rotate: true
+  xy: 921, 2
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+monsterC/tentacle5_2
+  rotate: true
+  xy: 974, 2
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+monsterC/tentacle6
+  rotate: true
+  xy: 630, 2
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+monsterC/tentacle6_2
+  rotate: true
+  xy: 714, 2
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+monsterC/tentacleAttack
+  rotate: true
+  xy: 370, 27
+  size: 34, 190
+  orig: 34, 190
+  offset: 0, 0
+  index: -1
+monsterC/tentacleAttack_2
+  rotate: true
+  xy: 889, 103
+  size: 34, 190
+  orig: 34, 190
+  offset: 0, 0
+  index: -1
+monsterC/toothD
+  rotate: false
+  xy: 853, 63
+  size: 167, 38
+  orig: 167, 38
+  offset: 0, 0
+  index: -1
+monsterC/toothU
+  rotate: false
+  xy: 651, 61
+  size: 200, 63
+  orig: 204, 64
+  offset: 1, 0
+  index: -1

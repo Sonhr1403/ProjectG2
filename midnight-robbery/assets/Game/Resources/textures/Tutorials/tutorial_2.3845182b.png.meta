@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "92210d8b-b9da-43ec-adcb-2d3d409ae2bf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1680,
+  "height": 2727,
+  "platformSettings": {},
+  "subMetas": {
+    "tutorial_2.3845182b": {
+      "ver": "1.0.6",
+      "uuid": "b28f0b0d-f15b-4d50-9cf1-daeec7ee5884",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "92210d8b-b9da-43ec-adcb-2d3d409ae2bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1680,
+      "height": 2727,
+      "rawWidth": 1680,
+      "rawHeight": 2727,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

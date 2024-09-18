@@ -1,0 +1,195 @@
+
+spine_monsterA.png
+size: 1594,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betOption/coin01
+  rotate: false
+  xy: 1318, 66
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+betOption/coin02
+  rotate: true
+  xy: 623, 39
+  size: 41, 37
+  orig: 41, 39
+  offset: 0, 1
+  index: -1
+betOption/coin03
+  rotate: true
+  xy: 1318, 28
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+monsterA/m1_eye01
+  rotate: false
+  xy: 671, 15
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+monsterA/m1_eye02
+  rotate: true
+  xy: 788, 8
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+monsterA/m1_face01
+  rotate: false
+  xy: 1134, 200
+  size: 216, 161
+  orig: 216, 161
+  offset: 0, 0
+  index: -1
+monsterA/m1_face02
+  rotate: true
+  xy: 1352, 167
+  size: 194, 161
+  orig: 216, 161
+  offset: 14, 0
+  index: -1
+monsterA/m1_glass01
+  rotate: false
+  xy: 370, 3
+  size: 181, 77
+  orig: 181, 77
+  offset: 0, 0
+  index: -1
+monsterA/m1_glass02
+  rotate: true
+  xy: 1515, 180
+  size: 181, 77
+  orig: 181, 77
+  offset: 0, 0
+  index: -1
+monsterA/m1_lEar01
+  rotate: true
+  xy: 623, 2
+  size: 35, 45
+  orig: 36, 45
+  offset: 1, 0
+  index: -1
+monsterA/m1_lEar02
+  rotate: true
+  xy: 1448, 28
+  size: 35, 45
+  orig: 36, 45
+  offset: 1, 0
+  index: -1
+monsterA/m1_mouth
+  rotate: true
+  xy: 1108, 111
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+monsterA/m1_pupil01
+  rotate: true
+  xy: 1348, 12
+  size: 51, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+monsterA/m1_pupil02
+  rotate: false
+  xy: 553, 14
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+monsterA/m1_rEar01
+  rotate: true
+  xy: 1403, 27
+  size: 36, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+monsterA/m1_rEar02
+  rotate: false
+  xy: 1454, 122
+  size: 35, 43
+  orig: 37, 43
+  offset: 1, 0
+  index: -1
+monsterA/mAttack01
+  rotate: true
+  xy: 1134, 109
+  size: 89, 216
+  orig: 90, 217
+  offset: 1, 1
+  index: -1
+monsterA/mAttack02
+  rotate: true
+  xy: 1131, 15
+  size: 92, 185
+  orig: 100, 202
+  offset: 4, 16
+  index: -1
+monsterA/mAttack03
+  rotate: true
+  xy: 898, 18
+  size: 100, 149
+  orig: 102, 150
+  offset: 1, 0
+  index: -1
+monsterA/mAttack04
+  rotate: true
+  xy: 909, 120
+  size: 30, 197
+  orig: 30, 202
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb01
+  rotate: false
+  xy: 1049, 11
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb02
+  rotate: true
+  xy: 909, 152
+  size: 209, 223
+  orig: 209, 223
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb03
+  rotate: true
+  xy: 370, 82
+  size: 279, 299
+  orig: 279, 299
+  offset: 0, 0
+  index: -1
+monsterA/monsterBomb04
+  rotate: false
+  xy: 2, 7
+  size: 366, 354
+  orig: 366, 354
+  offset: 0, 0
+  index: -1
+monsterA/monsterLight01
+  rotate: false
+  xy: 671, 125
+  size: 236, 236
+  orig: 238, 238
+  offset: 1, 1
+  index: -1
+monsterA/monsterLight02
+  rotate: false
+  xy: 1352, 65
+  size: 100, 100
+  orig: 104, 103
+  offset: 2, 1
+  index: -1
+monsterA/mosterCoin
+  rotate: true
+  xy: 1515, 43
+  size: 135, 54
+  orig: 135, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,100 @@
+{
+"skeleton": { "hash": "ctWSg1ZwrMU", "spine": "4.2.09-beta", "x": -43, "y": -1415, "width": 836, "height": 1496 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "sexyWoman", "parent": "root", "x": 467.35, "y": -536.79 },
+	{ "name": "woman", "parent": "sexyWoman", "x": 3.01, "y": -3.25 },
+	{ "name": "mask", "parent": "root", "x": 375, "y": -667, "scaleX": 1.1, "scaleY": 1.1 },
+	{ "name": "man", "parent": "root", "x": 223.5, "y": -736.5 },
+	{ "name": "hand-2", "parent": "sexyWoman", "x": -457.99, "y": 539.25 },
+	{ "name": "hand-1", "parent": "sexyWoman", "x": -173.99, "y": 57.25 }
+],
+"slots": [
+	{ "name": "mask", "bone": "mask", "attachment": "mask" },
+	{ "name": "woman", "bone": "woman", "attachment": "woman" },
+	{ "name": "hand-1", "bone": "hand-1", "attachment": "hand-1" },
+	{ "name": "man", "bone": "man", "attachment": "man" },
+	{ "name": "hand-2", "bone": "hand-2", "color": "ffffff00", "attachment": "hand-2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"hand-1": {
+				"hand-1": { "width": 316, "height": 422 }
+			},
+			"hand-2": {
+				"hand-2": { "x": 284, "y": -482, "width": 316, "height": 422 }
+			},
+			"man": {
+				"man": { "width": 301, "height": 435 }
+			},
+			"mask": {
+				"mask": { "scaleX": 3.8, "scaleY": 6.8, "width": 200, "height": 200 }
+			},
+			"woman": {
+				"woman": { "width": 580, "height": 797 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"hand-1": {
+				"rgba": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.5333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" },
+					{ "time": 1.5333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.5, "color": "ffffffff" },
+					{ "time": 2.5333, "color": "ffffff00" }
+				]
+			},
+			"hand-2": {
+				"rgba": [
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.0333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffff00" },
+					{ "time": 1.5333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.0333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.5, "color": "ffffff00" },
+					{ "time": 2.5333, "color": "ffffffff" }
+				]
+			},
+			"mask": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"man": {
+				"scale": [
+					{ "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 1.1, "y": 1.1 },
+					{ "time": 0.2667 }
+				]
+			},
+			"sexyWoman": {
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2667, "x": 1.05, "y": 1.05 },
+					{ "time": 0.3333, "x": 0.95, "y": 0.95 },
+					{ "time": 0.4 }
+				]
+			}
+		}
+	}
+}
+}

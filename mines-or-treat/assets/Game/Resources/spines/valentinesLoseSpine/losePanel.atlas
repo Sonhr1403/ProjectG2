@@ -1,0 +1,17 @@
+losePanel.png
+size:318,2195
+filter:Linear,Linear
+hand-1
+bounds:2,639,314,420
+offsets:1,1,316,422
+hand-2
+bounds:2,1061,314,420
+offsets:1,1,316,422
+man
+bounds:2,204,299,433
+offsets:1,1,301,435
+mask
+bounds:2,2,200,200
+woman
+bounds:2,1483,288,710
+offsets:175,20,580,797

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "73228f1a-fa44-44e1-9efc-45bde24c6fdb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 285,
+  "platformSettings": {},
+  "subMetas": {
+    "CaribbeanSaga_Logo": {
+      "ver": "1.0.6",
+      "uuid": "742220f4-c0e9-4fd4-913c-ac6cc5f798b5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "73228f1a-fa44-44e1-9efc-45bde24c6fdb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 449,
+      "height": 284,
+      "rawWidth": 450,
+      "rawHeight": 285,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "4c196723-6a7d-4834-8a0f-db773a76edce",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "MeowHiLo",
+  "priority": 1,
+  "compressionType": {
+    "android": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "android": false
+  },
+  "inlineSpriteFrames": {
+    "android": false
+  },
+  "isRemoteBundle": {
+    "android": true
+  },
+  "subMetas": {}
+}

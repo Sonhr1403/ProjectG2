@@ -1,0 +1,62 @@
+
+spine_spaceBg.png
+size: 1194,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+planet1
+  rotate: false
+  xy: 1070, 176
+  size: 101, 73
+  orig: 103, 75
+  offset: 1, 1
+  index: -1
+planet2
+  rotate: false
+  xy: 1070, 251
+  size: 122, 119
+  orig: 124, 121
+  offset: 1, 1
+  index: -1
+planet3
+  rotate: true
+  xy: 904, 4
+  size: 72, 75
+  orig: 74, 77
+  offset: 1, 1
+  index: -1
+planet4
+  rotate: true
+  xy: 981, 2
+  size: 74, 75
+  orig: 76, 77
+  offset: 1, 1
+  index: -1
+planet5
+  rotate: false
+  xy: 1070, 90
+  size: 84, 84
+  orig: 86, 86
+  offset: 1, 1
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 2
+  size: 368, 634
+  orig: 368, 634
+  offset: 0, 0
+  index: -1
+space
+  rotate: false
+  xy: 904, 78
+  size: 164, 292
+  orig: 166, 294
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 638, 13
+  size: 264, 357
+  orig: 266, 359
+  offset: 1, 1
+  index: -1
